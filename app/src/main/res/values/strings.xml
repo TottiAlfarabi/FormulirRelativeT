@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormulirRelativ</string>
+    <string-array name="arr_prodi">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Manajemen Informatika </item>
+        <item>Kebahasaan </item>
+        <item>Teknik Tambang </item>
+
+    </string-array>
+</resources>
